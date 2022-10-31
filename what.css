@@ -1,0 +1,32 @@
+p {
+  font-size: 20px;
+  line-height: 1.5;
+  text-align: center;
+  margin: 0;
+  padding: 30px;
+  max-width: 80px;
+  display: inline-block;
+  border-width: 0px;
+  border-style: solid;
+  border-radius: 20px;
+  position: relative;
+}
+
+.jeremy {
+  letter-spacing: -2px;
+}
+
+.jeremy {
+  top: 150px;
+  left: 400px;
+}
+
+
+  .sketch {
+      letter-spacing: -2px;
+    }
+
+  .sketch {
+    top: 750px;
+    left: 750px;
+}

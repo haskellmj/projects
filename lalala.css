@@ -1,0 +1,20 @@
+p {
+  font-size: 20px;
+  line-height: 1.5;
+  text-align: center;
+  margin: 0;
+  padding: 30px;
+  max-width: 200px;
+  display: inline-block;
+  border-width: 0px;
+  border-style: solid;
+  border-radius: 150px;
+  position: relative;
+}
+
+.solid-text-shadow {
+  text-shadow: 3px 3px White;
+  top: 75px;
+  left: 750px;
+
+}
